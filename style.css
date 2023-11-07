@@ -1,0 +1,35 @@
+.box {
+    margin: 50px 100px;
+    background-color: aquamarine;
+    width: 200px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .btn {
+    width: 30px;
+    height: 30px;
+    padding: 4px 8px;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .value {
+    background-color: cadetblue;
+    padding: 5px;
+  }
+  
+  .increment {
+    background-color: green;
+    padding-bottom: 8px;
+  }
+  
+  .decrement {
+    background-color: yellow;
+    color: black;
+    padding-bottom: 10px;
+  }
